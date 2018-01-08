@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="tiny"
+  id="myeclipse.1513839761789"
+  context-root="/tiny"
+  j2ee-spec="1.7"
+  archive="tiny.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
